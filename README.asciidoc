@@ -1,0 +1,5 @@
+Introduction
+------------
+GLWrapper, provides a DLL wrapper for QOpenGLFunctions_1_0, to allow
+applications which need to be statically linked against glu32.dll to
+interoperate with Qt
