@@ -4,8 +4,8 @@
 #
 #-------------------------------------------------
 
-QT       += opengl
-QT       -= core gui
+QT       += gui
+QT       -= core
 
 TARGET = glw
 TEMPLATE = lib
